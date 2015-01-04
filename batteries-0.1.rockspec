@@ -1,7 +1,8 @@
 package = "LuaBatteries"
 version = "0.1"
 souce = {
-    url = "..."
+    url = "git@github.com:italomaia/luabatteries.git",
+    tag = "v0.1"
 }
 description = {
     summary = "Adds python batteries to environment",
